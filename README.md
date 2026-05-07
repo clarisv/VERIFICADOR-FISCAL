@@ -5,7 +5,7 @@
 ![RPA](https://img.shields.io/badge/RPA-Automated-red.svg)
 
 ## Visão Geral
-Solução de automação robótica (RPA) desenvolvida para a reconciliação e validação de documentos fiscais. O sistema realiza o processamento de guias tributárias em formato PDF (ISS, ICMS e Importação), executando o cruzamento de dados com livros de apuração em Excel para identificar divergências de valores, competências e Unidades Federativas (UF) de destino.
+Solução de automação robótica (RPA) desenvolvida para a reconciliação e validação de documentos fiscais. O sistema realiza o processamento de guias tributárias em formato PDF, executando o cruzamento de dados com livros de apuração em Excel para identificar divergências de valores, competências e Unidades Federativas (UF) de destino.
 
 ## Funcionalidades Principais
 * **OCR & Extração de Dados:** Processamento de PDFs complexos para captura de CNPJ, IE, valores monetários e códigos fiscais.
