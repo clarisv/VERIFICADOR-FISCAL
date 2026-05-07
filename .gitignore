@@ -1,0 +1,14 @@
+# Ignorar arquivos de dados reais
+*.xlsx
+*.xlsm
+*.pdf
+/pdfs/
+
+# Ignorar ambiente virtual e cache
+__pycache__/
+venv/
+.env
+
+# Ignorar arquivos do sistema
+.DS_Store
+Thumbs.db
