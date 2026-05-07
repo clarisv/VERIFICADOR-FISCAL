@@ -26,6 +26,9 @@ Solução de automação robótica (RPA) desenvolvida para a reconciliação e v
 2.  **Segurança de Variáveis:** Arquitetura livre de *hardcoded credentials*, utilizando passagem de parâmetros e variáveis de ambiente.
 3.  **Modularização:** Separação estrita entre o motor de processamento (`robo.py`) e a interface de usuário (`visual.py`) para facilitar a manutenção e auditoria de código.
 
+## Termos de Uso e Propriedade
+Todos os direitos reservados. Este projeto tem fins estritamente didáticos e de portfólio. A cópia, distribuição ou uso comercial/operacional não são permitidos sem autorização. O software é fornecido "como está", sem garantias, e a autora não se responsabiliza por danos decorrentes de seu uso fora do ambiente de testes.
+
 ## 📂 Estrutura do Projeto
 ```text
 ├── robo.py          # core: motor rpa e lógica de conferência fiscal
